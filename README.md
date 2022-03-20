@@ -8,8 +8,8 @@ The sorting algorithms included are:
 * [Insertion Sort - Time Complexity: O(n^2) | Space Complexity: O(1)](https://www.geeksforgeeks.org/insertion-sort/)
 * [Selection Sort - Time Complexity: O(n^2) | Space Complexity: O(1)](https://www.geeksforgeeks.org/selection-sort/)
 * [Bubble Sort - Time Complexity: O(n^2) ~ O(n) | Space Complexity: O(1)](https://www.geeksforgeeks.org/bubble-sort/)
-* [Quick Sort - Time Complexity: O(n^2) ~ O(nLogn) | Space Complexity: O(1)](https://www.geeksforgeeks.org/quick-sort/)
-* [Heap Sort - Time Complexity: O(nLogn) | Space Complexity: O(1)](https://www.geeksforgeeks.org/heap-sort/)
+* [Quick Sort - Time Complexity: O(n^2) ~ O(n Logn) | Space Complexity: O(1)](https://www.geeksforgeeks.org/quick-sort/)
+* [Heap Sort - Time Complexity: O(n Logn) | Space Complexity: O(1)](https://www.geeksforgeeks.org/heap-sort/)
 * [Merge Sort - Time Complexity: T(n) = 2T(n/2) + O(n) | Space Complexity: O(n)](https://www.geeksforgeeks.org/merge-sort/)
 
 ## SDL2 Library Setup
