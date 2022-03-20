@@ -9,6 +9,7 @@
 #define SDL_MANAGER_H
 #include<SDL2/SDL.h>
 #include<iostream>
+
 class SDL_Manager {
 	public:
 		SDL_Manager();
