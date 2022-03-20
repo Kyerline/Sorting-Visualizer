@@ -10,7 +10,7 @@ The sorting algorithms included are:
 * [Bubble Sort - Time Complexity: O(n^2) ~ O(n) | Space Complexity: O(1)](https://www.geeksforgeeks.org/bubble-sort/)
 * [Quick Sort - Time Complexity: O(n^2) ~ O(nLogn) | Space Complexity: O(1)](https://www.geeksforgeeks.org/quick-sort/)
 * [Heap Sort - Time Complexity: O(nLogn) | Space Complexity: O(1)](https://www.geeksforgeeks.org/heap-sort/)
-* [Merge Sort - Time Complexity: T(n)=2T(n/2)+O(n) | Space Complexity: O(n)](https://www.geeksforgeeks.org/merge-sort/)
+* [Merge Sort - Time Complexity: T(n) = 2T(n/2) + O(n) | Space Complexity: O(n)](https://www.geeksforgeeks.org/merge-sort/)
 
 ## SDL2 Library Setup
 This program has only been tested on Unix/Linux-based systems, but compatability for Windows-based systems will be worked on in future updates. For now, the usage of Unix/Linux commands on Windows, as well as any dependencies required by both operating systems, can be obtained by following the links below:
