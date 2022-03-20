@@ -34,6 +34,3 @@ To compile and run the program, navigate to the folder and type in the following
 make
 ./run
 ``` 
-## Author
-Kyle Gilmore
-
