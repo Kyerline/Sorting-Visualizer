@@ -1,7 +1,7 @@
 # <p style="text-align: center;">Sorting Visualizer</p>
 ![SortingVisualizer](https://drive.google.com/uc?export=view&id=1_GiN_ZsFBwsxRnq8zH_hnc-4H0I02JRJ)
 
-This is a sorting project written in C++, which includes the SDL2 library for the purpose of demonstrating the different methods each sorting algorithm applies to sort a randomly shuffled array into ascending order in a visual format.
+This is a sorting project written in C++, which includes the SDL2 library for the purpose of demonstrating the different methods each sorting algorithm applies to sort a randomly shuffled array into ascending order.
 
 The sorting algorithms included are:
 
